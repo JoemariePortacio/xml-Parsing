@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beverages>
+    <beverages type = "Milk">
+        <Brand>NESTLE</Brand>
+        <Product>NESTLE Fresh Milk</Product>
+        <Description>comes directly from free roaming cows in the lush pastures of New Zealand and is free of preservatives, additives or stabilizers.</Description>
+        <History>
+            <ingredients>made from 100% Fresh Cow's Milk.</ingredients>
+            <price>50 pesos</price>
+            <begins>1905</begins>
+            <founder>Henri Nestlé</founder>
+        </History>
+    </beverages>        
+
+    <beverages type = "Juice">
+        <Brand>REAL</Brand>
+        <Product>Real Fruit Power</Product>
+        <Description>Made from best quality fruits, Réal Fruit Power has NO added Preservatives, hence offers not just great taste, but also FRUIT POWER</Description>
+        <History>
+            <ingredients>Water, Mixed Fruit Concentrate, Pineapple Juice concentrate, Orange Juice concentrate, Mango puree concentrate, Banana puree, Apple juice concentrate, Guava puree concentrate, Passion Fruit, Apricot and Lime, Sugar, Apple juice concentrate, Citric Acid and Ascorbic Acid.</ingredients>
+            <price>98.12 pesos</price>
+            <begins>1997</begins>
+            <founder>Tony Taliano </founder>
+        </History>
+    </beverages>
+    
+    <beverages type = "wine">
+        <Brand>DEAKIN</Brand>
+        <Product>Deakin estate moscato 2021</Product>
+        <Description>Light, fruity, fresh with sweet tropical fruit and green apple flavors with lime touches.</Description>
+        <History>
+            <ingredients>Estate grown Muscat Gordo Blanco grapes were picked to obtain optimum sugar and flavour levels. Half the blend was fermented dry then blended back in, resulting in a fruity, low alcohol, light bodied wine.</ingredients>
+            <price>575 pesos</price>
+            <begins>1974</begins>
+            <founder>Alfred Deakin</founder>
+        </History>
+    </beverages>
+
+    <beverages type = "beer">
+        <Brand>San Miguel Brewery</Brand>
+        <Product>Red Horse Beer</Product>
+        <Description>A strong, high alcohol beer. It is deeply hued lager with a distinctive, sweetish taste, balanced by a smooth bitterness.</Description>
+        <History>
+            <ingredients>Water, Malt, Cereals, Sugar, Starch, Hops.</ingredients>
+            <price>53 pesos</price>
+            <begins>1982</begins>
+            <founder>San Miguel Corporation</founder>
+        </History>
+    </beverages>
+
+    <beverages type = "softdrinks">
+        <Brand>Coca Cola Company</Brand>
+        <Product>Coke</Product>
+        <Description>Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.</Description>
+        <History>
+            <ingredients>CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CARAMEL COLOR, PHOSPHORIC ACID, NATURAL FLAVORS, CAFFEINE.</ingredients>
+            <price>11 pesos</price>
+            <begins>1886</begins>
+            <founder>Asa Griggs Candler</founder>
+        </History>
+    </beverages>
+
+</Beverages>
